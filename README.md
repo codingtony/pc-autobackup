@@ -42,6 +42,7 @@ See pc_autobackup.py --help for more options
 - WB150F
 - NX20
 - Does it work with your camera? Contact me and let me know!
+
 ##Tested on the following OS:
 - Ubuntu 12.04 (precise) 32/64-bit
 - Mac OS X 10.8.2 (Mountain Lion)
