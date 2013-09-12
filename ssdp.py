@@ -78,6 +78,7 @@ class SSDPServer(DatagramProtocol):
 
     response.append('CONTENT-LENGTH: 0')
     response.append('')
+    response.append('')
     return '\r\n'.join(response)
 
   def ParseSSDPDiscovery(self, datagram):

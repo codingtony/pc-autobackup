@@ -28,11 +28,11 @@ CAMERA_MODEL = re.compile(r'<BaseModelName\s*value="(.*)"\s*/>')
 DESC_SERVER_NAME = re.compile(r'friendlyName\s*=\s*(.*)')
 DESC_UUID = re.compile(r'UDN\s*=\s*uuid:(.*)')
 
-DESC_INI = '''MacAddr=%(mac_address)s
-UDN=uuid:%(uuid)s
-friendlyName=%(server_name)s
-WOLSupport=1
-ServerFlag=1
+DESC_INI = '''MacAddr=%(mac_address)s\r
+UDN=uuid:%(uuid)s\r
+friendlyName=%(server_name)s\r
+WOLSupport=1\r
+ServerFlag=1\r
 '''
 
 LOG_DATE_FMT = '[%m/%d/%Y %I:%M %p]'
