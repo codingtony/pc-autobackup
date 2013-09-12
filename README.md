@@ -3,11 +3,18 @@ pc-autobackup
 
 clone of https://code.google.com/p/pc-autobackup/
 
+
 According to the google code page the licence is GPLv2, that's why I set the license to GPLv2 when 
 I've created the repo on github.
 
 With the application of the fix proposed by https://code.google.com/p/pc-autobackup/issues/detail?id=2
-works with my Samsung NX20.
+
+
+All the credit goes to the author Jeff Rebeiro (jeff@rebeiro.net) 
+plus the patch by Alexander Motzkau
+
+Thanks too both of you since I can use pc-autobackup with my Samsung NX20.
+
 
 Original Description on google code page :
 
